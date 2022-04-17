@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9805b67f.css","mappings":"AAAA,4BAEE,4BACF","sources":["App.css"],"sourcesContent":[".realizada,\r\n.realizada:hover {\r\n  text-decoration: line-through;\r\n}\r\n"],"names":[],"sourceRoot":""}

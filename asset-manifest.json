@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ajs-atividade-previa/static/css/main.9805b67f.css",
+    "main.js": "/ajs-atividade-previa/static/js/main.cd227539.js",
+    "index.html": "/ajs-atividade-previa/index.html",
+    "main.9805b67f.css.map": "/ajs-atividade-previa/static/css/main.9805b67f.css.map",
+    "main.cd227539.js.map": "/ajs-atividade-previa/static/js/main.cd227539.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9805b67f.css",
+    "static/js/main.cd227539.js"
+  ]
+}
