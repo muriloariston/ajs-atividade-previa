@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "descricao": "Tarefa 1",
+    "situacao": true
+  },
+  {
+    "id": 2,
+    "descricao": "Tarefa 2",
+    "situacao": true
+  },
+  {
+    "id": 3,
+    "descricao": "Tarefa 3",
+    "situacao": false
+  },
+  {
+    "id": 4,
+    "descricao": "Tarefa 4",
+    "situacao": true
+  },
+  {
+    "id": 5,
+    "descricao": "Tarefa 5",
+    "situacao": false
+  }
+]
