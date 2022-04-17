@@ -2,7 +2,7 @@
   "name": "atividade-previa",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://muriloariston.github.io/ajs-atividade-previa/",
+  "homepage": "https://muriloariston.github.io/ajs-atividade-previa",
   "dependencies": {
     "cra-template": "1.2.0",
     "gh-pages": "^3.2.3",
